@@ -1,5 +1,5 @@
 #!/bin/bash
-#script: Abul
+#script: Abul 2024-05-20 7:55 PM
 # File containing the list of directories
 PATHS_FILE="paths.txt"
 
