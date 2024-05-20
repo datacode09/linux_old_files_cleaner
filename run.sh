@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#script: ABul
 # File containing the list of directories
 PATHS_FILE="paths.txt"
 
